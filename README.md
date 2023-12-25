@@ -22,6 +22,7 @@
 <body>
     
     <h1 id="sa">Welcome to HOT-HUB</h1>
+    <h1 id"sa">စောရန်နောင်၏မယားများ၊ သူရအောင်၏ စော်များ၊ ။ ***သတိ ဂွင်းမထုရ*****<h1>
     
     <img id="ss" src="https://i.postimg.cc/283dLhm9/IMG-20230929-072342-770.jpg">
     
@@ -51,7 +52,7 @@
 
 <img id="ss" src="https://i.postimg.cc/GhggJ8qv/IMG-20231124-181522-832.jpg">
 
-
+<h1>Web Creator.Nyan Linn Aung. Photo publisher. Michel, John, Aadin, Jack, Bezos, </h1>
     
 </body>
 </html>
